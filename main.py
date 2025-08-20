@@ -5,8 +5,8 @@ import plotly.graph_objects as go
 import numpy as np
 
 # --- Account Credentials ---
-LOGIN = 5039372842
-PASSWORD = "!vCwPoW6"
+LOGIN = 
+PASSWORD = ""
 SERVER = "MetaQuotes-Demo"
 
 # --- Initialize Connection ---
